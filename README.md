@@ -1,8 +1,16 @@
-## About me
-- I'm a student at Sharif University of Technology, majoring in Electrical Engineering.
-- My primary interests lie in Machine Learning, privacy in machine learning, reliable and trustworthy AI, and large language models (LLMs).
-- I am part of the AI team at MCINext.
-- Currently, I'm learning some basics of software engineering.
+## About Me
+
+### Education
+
+I am currently a student at [Sharif University of Technology](https://en.sharif.ir/), majoring in **Electrical Engineering**.
+
+### Research Interests
+
+My primary interests are in machine learning, privacy in machine learning, trustworthy AI, and Large Language Models (LLMs). I am also passionate about computer vision and image processing.
+
+### Working Experience
+
+I am currently working at **MCILab** as part of the **LLM team**, where we are training a large language model (LLM) for the Persian language. One of our major challenges is data collection, as available data in Persian is quite limited. We are also working on the evaluation of the LLM and aligning it to ensure it does not respond to certain types of questions. 
 
 <!-- TO DO: Add more information about yourself later-->
 
